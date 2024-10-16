@@ -1,0 +1,34 @@
+window {
+    background-color: #2e3440;
+    border-color: #61afef;
+    border-radius: 4px;
+    color: #abb2bf;
+    padding: 10px;
+}
+
+entry {
+    background-color: #4c566a;
+    border-color: #98c379;
+    color: #d8dee9;
+    padding: 5px;
+}
+
+entry:focus {
+    background-color: #81a1c1;
+}
+
+list {
+    background-color: #3b4252;
+    color: #d8dee9;
+    border-radius: 4px;
+}
+
+listentry {
+    background-color: transparent;
+    padding: 8px;
+}
+
+listentry:focus {
+    background-color: #81a1c1;
+    color: #eceff4;
+}
