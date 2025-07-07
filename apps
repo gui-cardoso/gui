@@ -1,0 +1,4 @@
+sudo pacman -Syu
+sudo pacman -S tts-dejavu noto-fonts noto-fonts-emoji ttf-liberation
+sudo pacman -S gst-liav gst-plugins-bad gst-plugins-good gst-plugins-ugly ffmpeg gstreamer
+sudo pacman -S hyprland alacritty waybar wofi qbittorent 
